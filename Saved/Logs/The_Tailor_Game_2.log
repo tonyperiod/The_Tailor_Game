@@ -698,3 +698,12 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.09.26-18.03.25:352][ 35]LogTemp: Resetting audio stream to device id 
 [2020.09.26-18.03.25:380][ 35]LogAudioMixer: Display: 0: FrontLeft
 [2020.09.26-18.03.25:380][ 35]LogAudioMixer: Display: 1: FrontRight
+[2020.09.26-18.07.04:049][897]LogSlate: Took 0.000289 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.09.26-18.07.04:069][897]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/Room_1" FILE="../../../../Github Repos/The_Tailor_Game/Content/FirstPersonBP/Maps/Room_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.26-18.07.04:083][897]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.09.26-18.07.04:115][897]LogSavePackage: Moving '../../../../Github Repos/The_Tailor_Game/Saved/Room_14024F2DD4D6DB769D8D69DB5F4BE3E98.tmp' to '../../../../Github Repos/The_Tailor_Game/Content/FirstPersonBP/Maps/Room_1.umap'
+[2020.09.26-18.07.04:147][897]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/Room_1_BuiltData" FILE="../../../../Github Repos/The_Tailor_Game/Content/FirstPersonBP/Maps/Room_1_BuiltData.uasset" SILENT=true
+[2020.09.26-18.07.04:191][897]LogSavePackage: Moving '../../../../Github Repos/The_Tailor_Game/Saved/Room_1_BuiltDataCA9922544B7987B97EBF17947A67FB65.tmp' to '../../../../Github Repos/The_Tailor_Game/Content/FirstPersonBP/Maps/Room_1_BuiltData.uasset'
+[2020.09.26-18.07.04:221][897]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.26-18.07.04:221][897]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/Room_1.Room_1
+[2020.09.26-18.07.04:221][897]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/Room_1_BuiltData.Room_1_BuiltData

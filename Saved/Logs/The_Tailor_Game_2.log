@@ -686,3 +686,15 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.09.26-17.42.09:756][995]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
 [2020.09.26-17.42.09:757][995]LogDirectoryWatcher: A directory notification for '../../../../Github Repos/The_Tailor_Game/Plugins/' was aborted.
 [2020.09.26-17.43.06:363][300]LogSlate: Window 'Source Control Login' being destroyed
+[2020.09.26-18.02.12:032][816]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{0e5ef123-ef84-4fa7-bff8-d41f22309153}.
+[2020.09.26-18.02.12:032][816]LogTemp: Resetting audio stream to device id 
+[2020.09.26-18.02.12:055][816]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.26-18.02.12:055][816]LogAudioMixer: Display: 1: FrontRight
+[2020.09.26-18.03.24:686][ 33]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{13121e1a-d14d-43b0-9831-5a5796563987}.
+[2020.09.26-18.03.24:686][ 33]LogTemp: Resetting audio stream to device id 
+[2020.09.26-18.03.24:712][ 33]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.26-18.03.24:712][ 33]LogAudioMixer: Display: 1: FrontRight
+[2020.09.26-18.03.25:352][ 35]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{0e5ef123-ef84-4fa7-bff8-d41f22309153}.
+[2020.09.26-18.03.25:352][ 35]LogTemp: Resetting audio stream to device id 
+[2020.09.26-18.03.25:380][ 35]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.26-18.03.25:380][ 35]LogAudioMixer: Display: 1: FrontRight
